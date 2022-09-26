@@ -1,0 +1,10 @@
+bankingapplication\utilities\readcon.class
+bankingapplication\testcases\TC_LoginDDT_002.class
+bankingapplication\pageobjects\loginpage.class
+bankingapplication\utilities\Reporting.class
+bankingapplication\pageobjects\Addnewcustomer.class
+bankingapplication\utilities\Readconfig.class
+bankingapplication\testcases\TC_Addcustomer_003.class
+bankingapplication\testcases\Baseclass.class
+bankingapplication\testcases\TC_LoginTest_001.class
+bankingapplication\utilities\XLUtils.class
